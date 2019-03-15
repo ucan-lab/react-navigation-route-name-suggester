@@ -1,0 +1,1 @@
+# react-navigation-route-name-suggester
